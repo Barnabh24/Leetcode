@@ -30,9 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Barnabh24/Leetcode/tree/master/0292-nim-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Barnabh24/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Barnabh24/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Barnabh24/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Barnabh24/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
