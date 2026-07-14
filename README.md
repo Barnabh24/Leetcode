@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Barnabh24/Leetcode/tree/master/0027-remove-element) |
+| [0392-is-subsequence](https://github.com/Barnabh24/Leetcode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Barnabh24/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Barnabh24/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Barnabh24/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Barnabh24/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Brainteaser
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Barnabh24/Leetcode/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Barnabh24/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
