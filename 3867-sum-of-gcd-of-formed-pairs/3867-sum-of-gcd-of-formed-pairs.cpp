@@ -2,21 +2,11 @@ class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
         int n = nums.size();
-        vector<int>mx(n,nums[0]);
-        int maxi = nums[0];
-        for(int i=1; i<n; i++) {
-            if(nums[i] > maxi) {
-                maxi = nums[i];
-                mx[i] = maxi;
-            }else {
-                mx[i] = maxi;
-            }
-        }
-
-
+        int maxi = -1;
         vector<long long> prefixGcd(n);
         for(int i=0; i<n; i++) {
-            prefixGcd[i] = gcd(nums[i], mx[i]);
+            maxi = max(maxi,nums[i]);
+            prefixGcd[i] = gcd(nums[i], maxi);
         }
 
         sort(prefixGcd.begin(), prefixGcd.end());
