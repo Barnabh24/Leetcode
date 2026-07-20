@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Barnabh24/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Barnabh24/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Barnabh24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1260-shift-2d-grid](https://github.com/Barnabh24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Barnabh24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Barnabh24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Barnabh24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Barnabh24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Barnabh24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Barnabh24/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
