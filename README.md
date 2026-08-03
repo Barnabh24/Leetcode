@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Barnabh24/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Barnabh24/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Barnabh24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Barnabh24/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Barnabh24/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Barnabh24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Barnabh24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Barnabh24/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Barnabh24/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Barnabh24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Barnabh24/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Barnabh24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Barnabh24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Barnabh24/Leetcode/tree/master/1288-remove-covered-intervals) |
