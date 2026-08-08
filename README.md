@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Barnabh24/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Barnabh24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Barnabh24/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Barnabh24/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0877-stone-game](https://github.com/Barnabh24/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Barnabh24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/Barnabh24/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Barnabh24/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Barnabh24/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Barnabh24/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Barnabh24/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Barnabh24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Barnabh24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Barnabh24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Barnabh24/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Barnabh24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Barnabh24/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Barnabh24/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Barnabh24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/Barnabh24/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Barnabh24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Barnabh24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Barnabh24/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/Barnabh24/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/Barnabh24/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
