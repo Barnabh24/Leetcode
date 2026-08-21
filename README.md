@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Barnabh24/Leetcode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Barnabh24/Leetcode/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Barnabh24/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/Barnabh24/Leetcode/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/Barnabh24/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Barnabh24/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Barnabh24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Barnabh24/Leetcode/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Barnabh24/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/Barnabh24/Leetcode/tree/master/0525-contiguous-array) |
 | [0888-fair-candy-swap](https://github.com/Barnabh24/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/Barnabh24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Barnabh24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Barnabh24/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Barnabh24/Leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
