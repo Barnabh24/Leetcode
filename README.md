@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Barnabh24/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Barnabh24/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Barnabh24/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Barnabh24/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/Barnabh24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Barnabh24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Barnabh24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Barnabh24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Barnabh24/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/Barnabh24/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Barnabh24/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Barnabh24/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Barnabh24/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2029-stone-game-ix](https://github.com/Barnabh24/Leetcode/tree/master/2029-stone-game-ix) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Barnabh24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Barnabh24/Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Barnabh24/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Barnabh24/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Barnabh24/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Barnabh24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Barnabh24/Leetcode/tree/master/2029-stone-game-ix) |
