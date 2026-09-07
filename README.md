@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Barnabh24/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/Barnabh24/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Barnabh24/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1323-maximum-69-number](https://github.com/Barnabh24/Leetcode/tree/master/1323-maximum-69-number) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Barnabh24/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Barnabh24/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Barnabh24/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Barnabh24/Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Barnabh24/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Barnabh24/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1323-maximum-69-number](https://github.com/Barnabh24/Leetcode/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Barnabh24/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Barnabh24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Barnabh24/Leetcode/tree/master/2029-stone-game-ix) |
