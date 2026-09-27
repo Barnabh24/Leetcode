@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Barnabh24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Barnabh24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Barnabh24/Leetcode/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Barnabh24/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Barnabh24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Barnabh24/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Barnabh24/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Barnabh24/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Barnabh24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Barnabh24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Barnabh24/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Barnabh24/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Barnabh24/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Barnabh24/Leetcode/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Barnabh24/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Barnabh24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Barnabh24/Leetcode/tree/master/1291-sequential-digits) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Barnabh24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Barnabh24/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Barnabh24/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
