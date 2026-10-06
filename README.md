@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Barnabh24/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/Barnabh24/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Barnabh24/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Barnabh24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Barnabh24/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/Barnabh24/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Barnabh24/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Barnabh24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Barnabh24/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Barnabh24/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Barnabh24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Barnabh24/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Barnabh24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Barnabh24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Barnabh24/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Barnabh24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Barnabh24/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Barnabh24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
