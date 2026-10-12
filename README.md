@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Barnabh24/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Barnabh24/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Barnabh24/Leetcode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Barnabh24/Leetcode/tree/master/0164-maximum-gap) |
 | [0413-arithmetic-slices](https://github.com/Barnabh24/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Barnabh24/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/Barnabh24/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/Barnabh24/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0888-fair-candy-swap](https://github.com/Barnabh24/Leetcode/tree/master/0888-fair-candy-swap) |
