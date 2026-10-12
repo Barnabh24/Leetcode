@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Barnabh24/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Barnabh24/Leetcode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Barnabh24/Leetcode/tree/master/0164-maximum-gap) |
+| [0413-arithmetic-slices](https://github.com/Barnabh24/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Barnabh24/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Barnabh24/Leetcode/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/Barnabh24/Leetcode/tree/master/0605-can-place-flowers) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Barnabh24/Leetcode/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/Barnabh24/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0678-valid-parenthesis-string](https://github.com/Barnabh24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Barnabh24/Leetcode/tree/master/0877-stone-game) |
 ## Number Theory
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Barnabh24/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Barnabh24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Barnabh24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Barnabh24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
