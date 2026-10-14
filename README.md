@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Barnabh24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Barnabh24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Barnabh24/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Barnabh24/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Barnabh24/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Barnabh24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Barnabh24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Barnabh24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Barnabh24/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Barnabh24/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Barnabh24/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Barnabh24/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Barnabh24/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Barnabh24/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Barnabh24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Barnabh24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Barnabh24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Barnabh24/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Barnabh24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Barnabh24/Leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Barnabh24/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Barnabh24/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Barnabh24/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Barnabh24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Barnabh24/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Barnabh24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Barnabh24/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Barnabh24/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
 | ------- |
