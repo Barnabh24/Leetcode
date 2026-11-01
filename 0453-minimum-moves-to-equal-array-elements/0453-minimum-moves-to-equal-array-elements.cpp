@@ -1,10 +1,10 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        int sum=0;
-        int minm=*min_element(nums.begin(),nums.end());
-        for(int i=0;i<nums.size();i++){
-            sum+=(nums[i]-minm);
+        int mini = *min_element(nums.begin(), nums.end());
+        int sum = 0;
+        for(int i=0; i<nums.size(); i++) {
+            sum += nums[i] - mini;
         }
         return sum;
     }
