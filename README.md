@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Barnabh24/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Barnabh24/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/Barnabh24/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Barnabh24/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Barnabh24/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Barnabh24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Barnabh24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Barnabh24/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Barnabh24/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Barnabh24/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1051-height-checker](https://github.com/Barnabh24/Leetcode/tree/master/1051-height-checker) |
+| [1267-count-servers-that-communicate](https://github.com/Barnabh24/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Barnabh24/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Barnabh24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Barnabh24/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Barnabh24/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Barnabh24/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Barnabh24/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Barnabh24/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -462,8 +466,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Barnabh24/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Barnabh24/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Barnabh24/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Barnabh24/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
