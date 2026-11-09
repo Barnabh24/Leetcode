@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Barnabh24/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Barnabh24/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Barnabh24/Leetcode/tree/master/1323-maximum-69-number) |
+| [1328-break-a-palindrome](https://github.com/Barnabh24/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Barnabh24/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Barnabh24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Barnabh24/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Barnabh24/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Barnabh24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1328-break-a-palindrome](https://github.com/Barnabh24/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Barnabh24/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Barnabh24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
