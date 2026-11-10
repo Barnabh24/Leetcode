@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Barnabh24/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Barnabh24/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Barnabh24/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Barnabh24/Leetcode/tree/master/0049-group-anagrams) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Barnabh24/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Barnabh24/Leetcode/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Barnabh24/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Barnabh24/Leetcode/tree/master/0525-contiguous-array) |
