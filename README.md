@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Barnabh24/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Barnabh24/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Barnabh24/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Barnabh24/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Barnabh24/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Barnabh24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Barnabh24/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Barnabh24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Barnabh24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Barnabh24/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Barnabh24/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Barnabh24/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Barnabh24/Leetcode/tree/master/0525-contiguous-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Barnabh24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Barnabh24/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Barnabh24/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Barnabh24/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
