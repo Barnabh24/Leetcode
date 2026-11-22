@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Barnabh24/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Barnabh24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Barnabh24/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Barnabh24/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Barnabh24/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Barnabh24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
