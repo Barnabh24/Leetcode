@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Barnabh24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Barnabh24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Barnabh24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Barnabh24/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Barnabh24/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Barnabh24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Barnabh24/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Barnabh24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Barnabh24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Barnabh24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Barnabh24/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Barnabh24/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Barnabh24/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Barnabh24/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Barnabh24/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/Barnabh24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Barnabh24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Barnabh24/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Barnabh24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Barnabh24/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Barnabh24/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Barnabh24/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1051-height-checker](https://github.com/Barnabh24/Leetcode/tree/master/1051-height-checker) |
 | [1267-count-servers-that-communicate](https://github.com/Barnabh24/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Barnabh24/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2029-stone-game-ix](https://github.com/Barnabh24/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Barnabh24/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Barnabh24/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
