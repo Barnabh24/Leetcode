@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Barnabh24/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Barnabh24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Barnabh24/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Barnabh24/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/Barnabh24/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Barnabh24/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Barnabh24/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Barnabh24/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Barnabh24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Barnabh24/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Barnabh24/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Barnabh24/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
